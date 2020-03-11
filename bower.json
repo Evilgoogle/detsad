@@ -1,0 +1,19 @@
+{
+  "name": "dedsat.last",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lesshat": "~3.0.2",
+    "jquery": "~2.2.1"
+  }
+}

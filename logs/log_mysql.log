@@ -1,0 +1,36 @@
+﻿Ошибка mysql: SELECT * FROM `data_resurse` ORDER BY 'id' DESC
+
+
+Описания ошибки: Table 'base_sad.data_resurse' doesn't exist
+
+
+Где произошла ошибка: C:\OpenServer\domains\dedsat.last\modules\default\static\main.php
+
+
+На какой линий: 26
+
+
+Когда произошло ошибка: 2016-Feb-Sat, 12:15:38
+
+
+====================================================
+
+
+Ошибка mysql: SELECT * FROM `fon`
+
+
+Описания ошибки: Table 'base_sad.fon' doesn't exist
+
+
+Где произошла ошибка: C:\OpenServer\domains\dedsat.last\modules\default\static\add.php
+
+
+На какой линий: 126
+
+
+Когда произошло ошибка: 2016-Feb-Sun, 05:49:16
+
+
+====================================================
+
+
